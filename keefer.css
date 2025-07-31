@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.keefer-page {
+    background-color: gray;
+}
+.container-fluid1{
+    background-color: white;
+    padding-bottom: 100px !important;
+  }
+  .call{
+  color: rgb(121 1 1);
+  font-weight: 800;
+  font-size: 1.19rem;
+}
+.number{
+  font-weight: 900;
+  font-size: 2.2rem;
+}
+ 
+.ques{
+  color: grey;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+    .form-bg {
+      background: url('images/form_bg.jpg') no-repeat center center;
+      background-size: cover;
+      padding: 10px 20px;
+      color: #000;
+    }
+    form .heading{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+}
+form .heading h2{
+  align-self:flex-start ;
+  background-color: rgb(121 1 1);
+  color: white;
+  padding: 10px;
+}
+form .heading label{
+  font-weight: 800;
+  font-size: 1rem;
+  flex-grow: 1;
+  padding: 0 15px;
+}
+form .heading span{
+  display: inline;
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: #002b8b;
+}
+.sec2 p {
+    padding: 20px ;
+  font-size: 1.5rem;
+  line-height: 25px;
+}
+.form-img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .form-img img {
+      width: 100%;
+      margin: 10px;
+      transform: rotate(20deg);
+    }
+
+    .form-footer p {
+      margin-bottom: 10px;
+      font-size: 30px;
+      font-style: italic;
+    }
+
+    .form-footer button {
+      background-color: maroon;
+      width: 100%;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .form-footer button img {
+      height: 10px;
+    }
+
+    .label-input {
+      margin-bottom: 15px;
+      display: flex;
+    }
+    .label-input label {
+      font-weight: bold;
+    }
+    textarea {
+      width: 100%;
+      padding: 10px;
+      resize: none;
+    }
+    .head-text span {
+      color: maroon;
+    }
+    .head-text-h4 {
+      color: maroon;
+    }
+    .midsec-p {
+      font-size: 1.4rem;
+    }
+    .column-1{
+  border-left: 8px solid rgb(121 1 1);
+}
+.column-1 a{
+  text-decoration: none;
+  color: rgb(146, 1, 1);
+
+}
+.column-1{
+  background-color: gray;
+  box-shadow: 2px 2px 2px rgb(56, 56, 56);
+}
+.k-button{
+  background-image: url(images/lf_bt_hr_shadow.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top center;
+  border-top: solid grey 1px;
+}
+.sec-2 h2 span{
+  display: inline;
+}
+.sec-2 h2 span,.sec-2 h4{
+  color: rgb(146, 1, 1);
+}
+.menu-list{
+  font-size: 2rem;
+  color: #ccc;
+}
+.mainbody-col1{font-size: 1.2rem;}
